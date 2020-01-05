@@ -1,0 +1,139 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "presenting himself a submissive inferior the Roman ruler hill to shot supreme emperor ",
+          "confidence": 0.86,
+          "word_confidence": [
+            [
+              "presenting",
+              1.0
+            ],
+            [
+              "himself",
+              0.99
+            ],
+            [
+              "a",
+              0.8
+            ],
+            [
+              "submissive",
+              0.98
+            ],
+            [
+              "inferior",
+              0.99
+            ],
+            [
+              "the",
+              0.97
+            ],
+            [
+              "Roman",
+              1.0
+            ],
+            [
+              "ruler",
+              0.45
+            ],
+            [
+              "hill",
+              0.76
+            ],
+            [
+              "to",
+              0.83
+            ],
+            [
+              "shot",
+              0.45
+            ],
+            [
+              "supreme",
+              0.98
+            ],
+            [
+              "emperor",
+              0.66
+            ]
+          ]
+        }
+      ],
+      "final": true
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "control listen carefully to what the invoice had to say then you have them executed ",
+          "confidence": 0.68,
+          "word_confidence": [
+            [
+              "control",
+              0.74
+            ],
+            [
+              "listen",
+              0.58
+            ],
+            [
+              "carefully",
+              0.96
+            ],
+            [
+              "to",
+              1.0
+            ],
+            [
+              "what",
+              1.0
+            ],
+            [
+              "the",
+              0.9
+            ],
+            [
+              "invoice",
+              0.6
+            ],
+            [
+              "had",
+              0.21
+            ],
+            [
+              "to",
+              0.98
+            ],
+            [
+              "say",
+              0.96
+            ],
+            [
+              "then",
+              0.19
+            ],
+            [
+              "you",
+              0.62
+            ],
+            [
+              "have",
+              0.61
+            ],
+            [
+              "them",
+              0.84
+            ],
+            [
+              "executed",
+              0.57
+            ]
+          ]
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+}
